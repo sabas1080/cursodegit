@@ -24,3 +24,5 @@ IMAGEN
     - Mon
 
 IMAGEN 18 de Mayo
+
+## LICENSE
