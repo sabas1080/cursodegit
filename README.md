@@ -17,3 +17,8 @@ IMAGEN
 
 IMAGEN
   12 de Mayo - Introduccion
+  18 de Mayo - Asistentes
+    - Ricardo
+    - Fabian
+    - Capuchino
+    - Mon
