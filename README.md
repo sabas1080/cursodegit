@@ -26,3 +26,5 @@ IMAGEN
 IMAGEN 18 de Mayo
 
 ## LICENSE
+
+MIT License 2020
