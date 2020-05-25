@@ -30,3 +30,5 @@ IMAGEN 18 de Mayo
 ## LICENSE
 
 MIT License 2020
+
+cambio 1 del commit del pull request
